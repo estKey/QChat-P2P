@@ -1,0 +1,22 @@
+﻿  Server.c
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(235): warning C4133: 'function': incompatible types - from 'NETDATA *' to 'const char *'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(236): warning C4133: 'function': incompatible types - from 'LPWSTR' to 'const char *'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(237): warning C4047: 'function': 'WPARAM' differs in levels of indirection from 'LPWSTR'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(237): warning C4024: 'SendMessageW': different types for formal and actual parameter 3
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(290): warning C4022: 'free': pointer mismatch for actual parameter 1
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(298): warning C4047: 'function': 'const wchar_t *' differs in levels of indirection from 'WPARAM'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(298): warning C4024: 'wcslen': different types for formal and actual parameter 1
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(310): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(312): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(312): warning C4047: 'function': 'const wchar_t *' differs in levels of indirection from 'WPARAM'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(312): warning C4024: 'wcscpy': different types for formal and actual parameter 2
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(338): warning C4133: 'function': incompatible types - from 'NETDATA *' to 'const char *'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(334): warning C4101: 'p': unreferenced local variable
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(381): warning C4018: '<': signed/unsigned mismatch
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(399): warning C4047: 'function': 'WPARAM' differs in levels of indirection from 'char *'
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(399): warning C4024: 'SendMessageW': different types for formal and actual parameter 3
+f:\subjects\8421\visual studio\projects\qchat-p2p\qserver\..\\common.h(357): warning C4133: 'initializing': incompatible types - from 'NETDATA *' to 'char *'
+  Generating code
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QServer.vcxproj -> F:\Subjects\8421\Visual Studio\Projects\QChat-P2P\Release\QServer.exe
